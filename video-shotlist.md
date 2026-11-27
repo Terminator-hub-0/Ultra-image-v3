@@ -10,6 +10,10 @@
 - Exact captions / on-screen text:
 - Branding:
 - Audio / voiceover / music:
+- Voice spec (age, gender, accent, language, tone, pace, emotion):
+- Script (exact):
+- Resolution / frame rate target:
+- Graphics / titles / captions:
 - Must keep / must avoid:
 
 ## Engineering checks
@@ -45,7 +49,22 @@
 - Style:
 - Production:
 - Quality review:
+- Realism check (humans, voices, motion):
+- 3D check (if 3D style):
+- Resolution and clarity (measured resolution, frame rate, frame-level clarity):
+- Visibility (subject, captions, graphics during motion):
 - Corrections:
 - Verification:
 - Limitations:
 - Delivery:
+
+### Generation Method & Provenance
+- How it was made (plain summary):
+- Tool/model and version (video, voice, music, editor):
+- Mode per shot:
+- Shot-by-shot log (final prompt verbatim, duration, parameters, attempts, corrections):
+- Voice (script, settings, synthetic or not, tool, authorization if a real voice was imitated):
+- Audio (music, effects, mix, measured loudness):
+- Graphics and captions (how made):
+- Assembly and export (editor, codec, resolution, frame rate, bitrate):
+- Verification evidence (frames reviewed, playback/audio checks, measured properties, unverifiable items):
